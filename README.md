@@ -8,7 +8,7 @@ Index of my public work
 ### Javascript
 * [Screeps](https://github.com/ryanprater/screeps), 2017: Code for the game [Screeps](www.screeps.com). Initially I was introduced to game as a coding test for an employer, but found it so much fun that I kept developing.
 
-### Javascript
+### Java
 * [Routy](https://github.com/ryanprater/Routy), 2012: an Android app for finding the most efficient route between multiple destinations (aka "Traveling Salesman"). Created in a university class with a couple good buddies.
 
 #### Coming soon (needs to be made public)
