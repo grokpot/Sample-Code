@@ -16,7 +16,6 @@ Index of my public work
 * [Routy](https://github.com/ryanprater/Routy), 2012: an Android app for finding the most efficient route between multiple destinations (aka "Traveling Salesman"). Created in a university class with a couple good buddies.
 
 #### Coming soon (needs to be made public)
-* Slacktrack (JS), 2017
 * Process Timings (Python), 2017
 * Transcribe Audio (Python), 2016
 * CSV to Latlong (Python), 2015
