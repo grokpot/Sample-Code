@@ -6,6 +6,7 @@ Index of my public work
 * [Calendar Graph](https://github.com/ryanprater/calendar_graph), 2014: A Flask web app for visualizing my calendar appointments. Personal project where I experimented with Flask and Highcharts.js. [Screenshots and explanation here](https://ryanprater.com/blog/2014/10/20/calendar-graph-the-demo)
 
 ### Javascript
+* [Slacktrack](https://github.com/ryanprater/slacktrash), 2017: Slack has poor data privacy policies. This tool (kind of) fixes that.
 * [Screeps](https://github.com/ryanprater/screeps), 2017: Code for the game [Screeps](www.screeps.com). Initially I was introduced to game as a coding test for an employer, but found it so much fun that I kept developing.
 
 ### Machine Learning
