@@ -1,4 +1,4 @@
-Index of my public work
+Index of public work
 ---
 
 ### Python
